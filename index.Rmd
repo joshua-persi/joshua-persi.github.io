@@ -1,0 +1,25 @@
+---
+title: "Josh Persi"
+image: "josh-persi.jpg"
+links:
+  - LinkedIn: "https://www.linkedin.com/in/joshuapersi/"
+  - Twitter: "https://twitter.com/joshuapersi"
+  - GitHub: "https://github.com/joshua-persi"
+  - Email: "mailto:joshpersi@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Biography
+
+I'm an ecologist, environmental scientist, and aspiring conservation biologist. I am a recent M.Sc. graduate from McGill University where I studied species' range limits. In my free time, you'll find me practicing botany or learning to code.
+
+## Education
+
+**McGill University** | Montréal, QC
+
+M.Sc. in Ecology | January 2018 - August 2020
+
+**University of Guelph** | Guelph, ON
+
+B.Sc. in Environmental Sciences | September 2013 - April 2017
